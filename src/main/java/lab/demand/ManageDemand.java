@@ -1,5 +1,4 @@
 package lab.demand;
-
 import java.util.List;
 
 public class ManageDemand {
